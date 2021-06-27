@@ -11,7 +11,7 @@
     <meta name="keywords" content="Canopy, Cancer, Reminders, Contact">
     <meta name="author" content="Connor Passingham">
     
-    <title>Canopy Cancer Care patiant reminders</title>
+    <title>Canopy Cancer Care patiant reminders 1</title>
     
     <!-- link to css goes here -->
     <link href="style.css" rel="stylesheet">
